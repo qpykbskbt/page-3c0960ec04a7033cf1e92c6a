@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-4e3cd56fb7.cnitb.cn/sitemap.xml
